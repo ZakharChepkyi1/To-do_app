@@ -1,5 +1,5 @@
 FILEPATH = "todos.txt"
-def get_todo(filepath=FILEPATH):
+def get_todo(filepath = FILEPATH):
     """" Read a text file  ard return the  list of
     to-do items.
     """
